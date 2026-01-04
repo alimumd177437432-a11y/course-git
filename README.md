@@ -1,2 +1,2 @@
 # course-git
-for mo 
+for mo learn course githup
